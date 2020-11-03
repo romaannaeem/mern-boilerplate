@@ -1,0 +1,71 @@
+@import '~antd/dist/antd.css';
+
+.logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+
+.site-layout-sub-header-background {
+  background: #fff;
+}
+
+.site-layout-background {
+  background: #fff;
+}
+
+[data-theme='dark'] .site-layout-sub-header-background {
+  background: #141414;
+}
+
+.active-project-table a,
+.active-project-table span {
+  font-size: 1.25rem !important;
+}
+
+.ant-comment-content-detail pre {
+  font-size: 1.25rem;
+}
+
+.ant-comment-content-author-name {
+  font-size: 0.9rem !important;
+}
+
+.ant-comment-content-author-time {
+  color: rgba(0, 0, 0, 0.65);
+}
+
+.logo {
+  width: 120px;
+  height: 31px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px 24px 16px 0;
+  float: left;
+}
+
+.attachment {
+  display: inline-block;
+  margin-right: 10px;
+  padding: 10px 20px;
+  border: 1px solid #1890ff;
+  border-radius: 5px;
+}
+
+.project-description {
+  font-size: 1.2rem;
+  padding: 2% 0;
+}
+
+.attachment-name,
+.attachment .anticon {
+  font-size: 1.5rem;
+}
+
+pre {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-variant: tabular-nums;
+  line-height: 1.5715;
+  font-feature-settings: 'tnum', 'tnum';
+}
