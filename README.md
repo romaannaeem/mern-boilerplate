@@ -15,17 +15,18 @@ This project is meant to be cloned and built upon. It is already set up with Pas
 
 #### Technologies used
 
-- [Node.js](https://nodejs.org/en/)
+- [Ant Design](https://ant.design/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [Bcrypt.js](https://www.npmjs.com/package/bcryptjs)
+- [Create React App](https://create-react-app.dev/)
 - [Express](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
+- [Node.js](https://nodejs.org/en/)
 - [Passport](http://www.passportjs.org/)
-- [Bcrypt.js](https://www.npmjs.com/package/bcryptjs)
 - [React](https://reactjs.org/)
 - [React Router](https://reactrouter.com/)
 - [Redux / React Redux](https://react-redux.js.org/)
 - [Redux Thunk](https://www.npmjs.com/package/redux-thunk)
-- [Axios](https://www.npmjs.com/package/axios)
-- [Ant Design](https://ant.design/)
 
 #### Notes
 
